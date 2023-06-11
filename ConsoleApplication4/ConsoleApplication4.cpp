@@ -78,10 +78,10 @@ int main()
 	cout << a - b << "\n";
 	cout << a * b << "\n";
 	cout << a / b << "\n";
-	cout << a + 5 << "\n";
-	cout << a - 5 << "\n";
-	cout << a * 5 << "\n";
-	cout << a / 5 << "\n";
+	cout << a + 6 << "\n";
+	cout << a - 6 << "\n";
+	cout << a * 6 << "\n";
+	cout << a / 6 << "\n";
 
 
 }
